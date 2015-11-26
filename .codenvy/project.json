@@ -1,0 +1,1 @@
+{"builders":{"configs":{},"default":"maven"},"mixinTypes":[],"runners":{"configs":{}},"type":"maven","attributes":{"languageVersion":["1.6"],"language":["java"]}}
